@@ -100,6 +100,3 @@ These are examples of the quality of the commit messages we will be expecting.
   - batchLogbatchLog -> batchLog
   - start periodic checking
   - missing brace
-
-
-If you have questions about whether something is appropriate, see John.
