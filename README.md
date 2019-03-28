@@ -1,4 +1,5 @@
-# Project-Iterations
+## FlashPhoto
+
 
 ## Coding guidelines
 It is assumed that all submitted code will conform to the Google C++ style
